@@ -1,2 +1,2 @@
 make say-hello:
-	python print.'Say Hello!'
+	echo "Hello, World!"
